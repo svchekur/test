@@ -1,0 +1,50 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 6886,
+    "errorCount" : 3400,
+    "errorPct" : 49.375546,
+    "meanResTime" : 1754.0749346500074,
+    "medianResTime" : 971.0,
+    "minResTime" : 217.0,
+    "maxResTime" : 36332.0,
+    "pct1ResTime" : 3233.3,
+    "pct2ResTime" : 3833.949999999999,
+    "pct3ResTime" : 27842.70000000004,
+    "throughput" : 56.32489468733385,
+    "receivedKBytesPerSec" : 516.7432201776002,
+    "sentKBytesPerSec" : 38.02316047912151
+  },
+  "Me-Get" : {
+    "transaction" : "Me-Get",
+    "sampleCount" : 3400,
+    "errorCount" : 3400,
+    "errorPct" : 100.0,
+    "meanResTime" : 282.4449999999988,
+    "medianResTime" : 251.0,
+    "minResTime" : 217.0,
+    "maxResTime" : 5460.0,
+    "pct1ResTime" : 362.0,
+    "pct2ResTime" : 467.9499999999998,
+    "pct3ResTime" : 592.9899999999998,
+    "throughput" : 28.74146209508352,
+    "receivedKBytesPerSec" : 10.668575477509805,
+    "sentKBytesPerSec" : 19.394873347365927
+  },
+  "Live Talk New URL" : {
+    "transaction" : "Live Talk New URL",
+    "sampleCount" : 3486,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 3189.399598393574,
+    "medianResTime" : 2330.0,
+    "minResTime" : 775.0,
+    "maxResTime" : 36332.0,
+    "pct1ResTime" : 3823.6000000000004,
+    "pct2ResTime" : 4598.149999999996,
+    "pct3ResTime" : 30122.49000000001,
+    "throughput" : 28.51417119954194,
+    "receivedKBytesPerSec" : 506.4201266052513,
+    "sentKBytesPerSec" : 19.25635390679318
+  }
+}
